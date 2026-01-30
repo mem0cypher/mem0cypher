@@ -21,8 +21,8 @@ Shipping open-source projects and prototypes at the intersection of software and
 
 ## Current Projects
 
-- 🧼 [cleanboard](https://github.com/mem0cypher/cleanboard) – CleanBoard is an open-source utility that temporarily disables all keyboard input, allowing you to clean your keyboard
-- 🤖 [copybot](https://github.com/mem0cypher/copybot) – Dual-component toolkit for Polymarket users who want to leverage on-chain transparency for prediction-market trading
+- 🧼 [cleanboard](https://github.com/mem0cypher/cleanboard) –  Open-source utility that temporarily disables all keyboard input, allowing you to clean your keyboard
+- 🤖 [copybot](https://github.com/mem0cypher/copybot) – Dual toolkit for Polymarket users who want to leverage on-chain transparency for prediction-market trading
 - 🗣️ [echospeak](https://github.com/mem0cypher/echospeak) – EchoSpeak is a local-first, voice first agentic AI assistant designed for privacy and tools.
 - 🚫 [nosignal](https://github.com/mem0cypher/nosignal) – Privacy-first, monitoring tool
 - 💬 [simulchat](https://github.com/mem0cypher/simulchat) – Simulate chat Twitch chat conversations for testing & fun
