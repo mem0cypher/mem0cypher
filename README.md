@@ -41,4 +41,4 @@ Contributions are welcome! forks, PRs, issues, I'm not a syntax guy.. so do your
 
 ## Current Mood
 
-**> "Currently setting up a workflow and instruture with my agents to make it so i push to git all the time almost everyday with my agents and automations with it being a good place for them to understand context and have a better context when working with my coding agnets and when they work together. "**
+> "Currently setting up a workflow and instruture with my agents to make it so i push to git all the time."
