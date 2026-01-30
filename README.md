@@ -1,6 +1,6 @@
 # I'm mem0 👋
 
-> Streamer, Open-source & cypher enthusiast | 🚀 Building tools for myself
+> Streamer · Creating tools and projects open/closed source · Managing agentic AI to automate workflows & ship faster
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -30,7 +30,7 @@ Shipping open-source projects and prototypes managing agentic artificial intelli
 - 📅 [weekly](https://github.com/mem0cypher/weekly) – Unreleased Music.
 
 
-Contributions are welcome! forks, PRs, issues, I'm not a syntax guy so do your thing I don't care really.. I just like to create.
+Contributions are welcome! forks, PRs, issues, I'm not a syntax guy.. so do your thing I don't care. I just like to create.
 
 ## Connect
 
@@ -41,4 +41,4 @@ Contributions are welcome! forks, PRs, issues, I'm not a syntax guy so do your t
 
 ## Current Mood
 
-> "Currently obsessed with Agentic AI"
+**> "Currently setting up a workflow and instruture with my agents to make it so i push to git all the time almost everyday with my agents and automations with it being a good place for them to understand context and have a better context when working with my coding agnets and when they work together. "**
