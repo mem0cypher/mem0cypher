@@ -37,7 +37,8 @@ Contributions are welcome! forks, PRs, issues, I'm not a syntax guy.. so do your
 - 🐦 X / Twitter: [@mem0cypher](https://x.com/mem0cypher)
 - 🌐 Blog: [mem0.website](https://mem0.website)
 - 📂 GitHub: [github.com/mem0cypher](https://github.com/mem0cypher)
-- 🔗 Other: Mastodon / Discord / More Coming Soon.
+- 🔗 Discord : @mem0cypher
+- 💻 Mastodon: [https://mastodon.social/@mem0cypher](@mem0cypher@mastodon.social)
 
 ## Current Mood
 
