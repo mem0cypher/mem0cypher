@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-Codex-000000?style=flat&logo=openai&logoColor=white" />
 </p>
 
-Shipping open-source projects and prototypes managing agentic artificial intelligence. After years of learning and creating, I'm now utilizing Agentic AI to be better, faster and to learn even more. Currently either streaming or "managing agents" / vibe coding.
+Shipping open-source projects and prototypes at the intersection of software and agentic AI. After years of building and learning, I’m now using agent workflows to move faster, learn more, and ship more consistently. If I’m not streaming, I’m probably managing agents—or vibe coding.
 
 🔮 **[auravote.com](https://auravote.com) (closed source)** – Voting platform for ranking the "Aura" of people.
 
