@@ -21,6 +21,7 @@ Shipping open-source projects and prototypes. After years of building and learni
 
 ## Current Projects
 
+- 📂 Repo: [mem0cypher](https://github.com/mem0cypher?tab=repositories)
 - 🧼 [cleanboard](https://github.com/mem0cypher/cleanboard) –  Open-source utility that temporarily disables all keyboard input, allowing you to clean your keyboard
 - 🤖 [copybot](https://github.com/mem0cypher/copybot) – Dual toolkit for Polymarket users who want to leverage on-chain transparency for prediction-market trading
 - 🗣️ [echospeak](https://github.com/mem0cypher/echospeak) – EchoSpeak is a local-first, voice first agentic AI assistant designed for privacy and tools.
@@ -36,7 +37,6 @@ Contributions are welcome! forks, PRs, issues, I'm not a syntax guy.. so do your
 
 - 🐦 X / Twitter: [@mem0cypher](https://x.com/mem0cypher)
 - 🌐 Blog: [mem0.website](https://mem0.website)
-- 📂 Repo: [mem0cypher](https://github.com/mem0cypher?tab=repositories)
 - 💻 Mastodon: [@mem0cypher@mastodon.social](https://mastodon.social/@mem0cypher)
 
 ## Current Mood
