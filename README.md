@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-Codex-000000?style=flat&logo=openai&logoColor=white" />
 </p>
 
-If I’m not streaming, I’m probably managing agents or "vibe coding" and playing arc raiders.
+## Main Projects
 
 🔮 **[auravote.com](https://auravote.com) (closed source)** – Voting platform for ranking the "Aura" of people.
 
