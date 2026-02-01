@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-Codex-000000?style=flat&logo=openai&logoColor=white" />
 </p>
 
-## Main Projects
+## Main Project
 
 🔮 **[auravote.com](https://auravote.com) (closed source)** – Voting platform for ranking the "Aura" of people.
 
