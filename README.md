@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-Codex-000000?style=flat&logo=openai&logoColor=white" />
 </p>
 
-Shipping open-source projects and prototypes. I’m now using agent workflows to move faster, learn more, and ship more consistently. If I’m not streaming, I’m probably managing agents—or vibe coding.
+If I’m not streaming, I’m probably managing agents or "vibe coding" and playing arc raiders.
 
 🔮 **[auravote.com](https://auravote.com) (closed source)** – Voting platform for ranking the "Aura" of people.
 
