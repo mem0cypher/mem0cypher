@@ -1,6 +1,6 @@
-# I'm mem0 👋
+# mem0
 
-> Streamer · Creating tools and projects open/closed source · Managing agentic AI to automate workflows & ship faster
+> Streamer · Creating tools and projects open/closed source · Managing agentic AI to automate workflows & ship faster, alot of this is mostly hobby testing and me having fun.
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/-Codex-000000?style=flat&logo=openai&logoColor=white" />
 </p>
 
-Shipping open-source projects and prototypes. After years of building and learning, I’m now using agent workflows to move faster, learn more, and ship more consistently. If I’m not streaming, I’m probably managing agents—or vibe coding.
+Shipping open-source projects and prototypes. I’m now using agent workflows to move faster, learn more, and ship more consistently. If I’m not streaming, I’m probably managing agents—or vibe coding.
 
 🔮 **[auravote.com](https://auravote.com) (closed source)** – Voting platform for ranking the "Aura" of people.
 
@@ -30,9 +30,6 @@ Shipping open-source projects and prototypes. After years of building and learni
 - 🎯 [slopshooter](https://github.com/mem0cypher/slopshooter) – Shoot down low-quality slop "First Person Shooter" Web App
 - 📅 [weekly](https://github.com/mem0cypher/weekly) – Unreleased Music.
 
-
-Contributions are welcome! forks, PRs, issues, I'm not a syntax guy.. so do your thing I don't care. I just like to create.
-
 ## Connect
 
 - 🐦 X / Twitter: [@mem0cypher](https://x.com/mem0cypher)
@@ -41,4 +38,4 @@ Contributions are welcome! forks, PRs, issues, I'm not a syntax guy.. so do your
 
 ## Current Mood
 
-> "Currently setting up a workflow and instruture with my agents to make it so i push to git all the time."
+> "Managing and Creating with Agentic AI.."
