@@ -1,6 +1,6 @@
 # mem0
 
-> · Creating tools and projects that are open/closed source · Managing agentic AI to automate workflows & code, alot of this is mostly hobby testing and me having fun.
+> Creating tools and projects that are open/closed source · Managing agentic AI to automate workflows & code, alot of this is mostly hobby testing and me having fun.
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
