@@ -28,7 +28,7 @@
 - 🚫 [nosignal](https://github.com/mem0cypher/nosignal) – Privacy-first, monitoring tool
 - 💬 [simulchat](https://github.com/mem0cypher/simulchat) – Simulate chat Twitch chat conversations for testing & fun
 - 🎯 [slopshooter](https://github.com/mem0cypher/slopshooter) – Shoot down low-quality slop "First Person Shooter" Web App
-- 📅 [weekly](https://github.com/mem0cypher/weekly) – Unreleased Music.
+- 📅 [weekly](https://github.com/mem0cypher/weekly) – AI Music.
 
 ## Connect
 
