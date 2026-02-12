@@ -1,6 +1,6 @@
 # mem0
 
-> My projects that are open/closed source · made with managing agentic AI to automate workflows & coding, all of this is for fun.
+> My projects · Managing Agentic AI to Automate Workflows & Coding, All of this is for fun.
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
