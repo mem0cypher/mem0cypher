@@ -17,8 +17,8 @@
 
 ## Main Project
 
-🔮 **[auravote.com](https://auravote.com) (closed source)** – Voting platform for ranking the "Aura" of people.
-🗣️ [echospeak](https://github.com/mem0cypher/echospeak) – EchoSpeak is a local-first, voice first agentic AI assistant designed for privacy and tools.
+🔮 **[auravote.com](https://auravote.com) (closed source)** – Voting platform for ranking the "Aura" of people
+ 🗣️ [echospeak](https://github.com/mem0cypher/echospeak) – EchoSpeak is a local-first, voice first agentic AI assistant designed for privacy and tools.
 
 ## Current Projects
 
