@@ -18,13 +18,13 @@
 ## Main Project
 
 🔮 **[auravote.com](https://auravote.com) (closed source)** – Voting platform for ranking the "Aura" of people.
+🗣️ [echospeak](https://github.com/mem0cypher/echospeak) – EchoSpeak is a local-first, voice first agentic AI assistant designed for privacy and tools.
 
 ## Current Projects
 
 - 📂 Repo: [mem0cypher](https://github.com/mem0cypher?tab=repositories)
 - 🧼 [cleanboard](https://github.com/mem0cypher/cleanboard) –  Open-source utility that temporarily disables all keyboard input, allowing you to clean your keyboard
 - 🤖 [copybot](https://github.com/mem0cypher/copybot) – Dual toolkit for Polymarket users who want to leverage on-chain transparency for prediction-market trading
-- 🗣️ [echospeak](https://github.com/mem0cypher/echospeak) – EchoSpeak is a local-first, voice first agentic AI assistant designed for privacy and tools.
 - 🚫 [nosignal](https://github.com/mem0cypher/nosignal) – Privacy-first, monitoring tool
 - 💬 [simulchat](https://github.com/mem0cypher/simulchat) – Simulate chat Twitch chat conversations for testing & fun
 - 🎯 [slopshooter](https://github.com/mem0cypher/slopshooter) – Shoot down low-quality slop "First Person Shooter" Web App
