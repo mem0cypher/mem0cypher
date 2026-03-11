@@ -29,6 +29,7 @@
 - 💬 [simulchat](https://github.com/mem0cypher/simulchat) – Simulate chat Twitch chat conversations for testing & fun
 - 🎯 [slopshooter](https://github.com/mem0cypher/slopshooter) – Shoot down low-quality slop "First Person Shooter" Web App
 - 📅 [weekly](https://github.com/mem0cypher/weekly) – AI Music.
+- 🧠 [knowself](https://github.com/mem0cypher/KnowSelf) – Psychometric assessments and AI-driven conversation.
 
 ## Connect
 
